@@ -2,10 +2,10 @@ cff-version: 1.2.0
 message: Please cite this software using these metadata.
 title: Segurança
 authors:
-  - family-names:Passos Neiva
+  - family-names: Passos Neiva
     given-names: Saymon Augusto
-  - family-names: Sobrenome do aluno 2
-    given-names: Nome do aluno 2 
+  - family-names: Cardoso Paiva
+    given-names: Gabriel Soares
   - family-names: Sobrenome do aluno 3
     given-names: Nome do aluno 3 
   - family-names: Sobrenome do aluno 4
