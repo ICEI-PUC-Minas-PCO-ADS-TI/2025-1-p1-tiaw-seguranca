@@ -1,6 +1,15 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O ambiente corporativo moderno exige que as empresas estejam em conformidade com
+um conjunto cada vez maior de leis, regulamentos e normas. O não cumprimento dessas
+exigências pode acarretar penalidades severas, além de prejudicar a reputação e a
+sustentabilidade do negócio. Diante desse cenário, a implementação de um programa de
+compliance eficiente tornou-se um fator essencial para organizações que desejam
+garantir segurança, transparência e ética em suas operações.
+Nossa empresa de consultoria em compliance surge com a missão de auxiliar empresas a
+estruturarem processos internos que garantam a conformidade com as legislações
+vigentes, com foco em segurança da informação, governança corporativa, proteção de
+dados e integridade organizacional. 
 
 ## Problema
 Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
