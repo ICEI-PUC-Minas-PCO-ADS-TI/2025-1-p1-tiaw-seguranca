@@ -5,9 +5,9 @@
 
 ## Slides
 
-Coloque aqui o conjunto de slides.
+[Segurança - TIAW.pdf](https://github.com/user-attachments/files/19522937/Seguranca.-.TIAW.pdf)
 
-> O arquivo deve estar no formato PDF e conter a apresentação completa do projeto, abordando todos os itens trabalhados nos demais artefatos. 
+
 
 > **Links úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
