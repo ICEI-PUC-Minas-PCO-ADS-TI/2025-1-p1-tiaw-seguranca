@@ -4,18 +4,24 @@
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web`
 
-`Xº semestre/ANO`
+`1° Semestre/2025`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O objetivo deste projeto é desenvolver uma consultoria especializada em
+compliance, oferecendo suporte estratégico e tecnológico para empresas
+que buscam aprimorar suas práticas de conformidade. A consultoria
+fornecerá um sistema web intuitivo que facilitará a implementação e a
+gestão de políticas de compliance, promovendo uma cultura organizacional
+alinhada às regulamentações vigentes.
+O projeto foca em acessibilidade, segurança em diferentes níveis e
+acessibilidade, garantindo que empresas de diferentes portes possam
+aderir e fortalecer sua governança corporativa. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Saymon Augusto Passos Neiva
+* Gabriel Soares Cardoso Paiva
+* Samuel Elias Alves Quirino
+* Guilherme Emanoel Guimarães
 
 ## Professor
 
