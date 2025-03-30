@@ -18,14 +18,14 @@ aderir e fortalecer sua governança corporativa.
 
 ## Integrantes
 
-* Saymon Augusto Passos Neiva
-* Gabriel Soares Cardoso Paiva
-* Samuel Elias Alves Quirino
-* Guilherme Emanoel Guimarães
+* Saymon Augusto Passos Neiva.
+* Gabriel Soares Cardoso Paiva.
+* Samuel Elias Alves Quirino.
+* Guilherme Emanoel Guimarães.
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Amália Soares Vieira De Vasconcelos.
 
 ## Instruções de utilização
 
