@@ -5,8 +5,7 @@
 
 ## Slides
 
-[Segurança - TIAW.pdf](https://github.com/user-attachments/files/19522937/Seguranca.-.TIAW.pdf)
-
+[Segurança (2).pdf](https://github.com/user-attachments/files/19527820/Seguranca.2.pdf)
 
 
 > **Links úteis**:
