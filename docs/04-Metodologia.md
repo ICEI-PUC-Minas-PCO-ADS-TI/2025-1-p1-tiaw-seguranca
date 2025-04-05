@@ -3,11 +3,25 @@
 
 <span style="color:red">Pré-requisitos: <a href="03-Product-design.md"> Product design</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para abordar o problema. Inclua definições sobre os ambientes de trabalho utilizados pela equipe para desenvolver o projeto. Isso abrange a relação dos ambientes utilizados, a estrutura para a gestão do código-fonte, além da definição do processo e das ferramentas por meio dos quais a equipe se organiza (gestão de equipes).
+O grupo adotou a metodologia Design Thinking na fase inicial para entender o problema, definir personas e construir o mapa de proposta de valor. A partir da fase de implementação, a equipe passou a utilizar Scrum, organizando o desenvolvimento em sprints semanais, com foco em entregas incrementais.
+
+A comunicação entre os membros é feita pelo grupo no WhatsApp, Reunioes em salas de estudo, aplicativos de comunicação por voz (discord e ligações) onde são definidos prazos, tarefas e compartilhados arquivos. A gestão do código-fonte é realizada via GitHub, utilizando o Git para controle de versão e colaboração entre os integrantes.
+
+O ambiente de desenvolvimento principal é o Visual Studio Code (VSCode), com foco em HTML, CSS e JavaScript. Documentos e apresentações são produzidos de forma colaborativa grupo de whatsapp.
 
 ## Relação de ambientes de trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas. A relação dos ambientes com seus respectivos propósitos deverá ser apresentada em uma tabela que especifique e detalhe Ambiente, Plataforma e Link de Acesso. Defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+### Tabela: Ambientes, Plataformas e Links de Acesso
+
+| **Ambiente**             | **Plataforma/Ferramenta**        | **Propósito**                                               | **Link de Acesso**                          |
+|--------------------------|----------------------------------|-------------------------------------------------------------|---------------------------------------------|
+| Comunicação              | WhatsApp                         | Troca de mensagens, decisões rápidas e envio de arquivos    | Uso via app móvel ou web                    |
+| Documentação             | Whatsapp                         | Criação colaborativa de textos e apresentações              | Uso via app móvel ou web                    |
+| Armazenamento de arquivos| Canvas Student e Git Hub         | Organização e armazenamento centralizado de materiais       | [Canvas](https://canvas.pucminas.br/)       |
+| Desenvolvimento          | Visual Studio Code (VSCode)      | Edição de código-fonte (HTML, CSS, JavaScript)              | [VSCode](https://code.visualstudio.com)     |
+| Controle de Versão       | Git e GitHub                     | Gerenciamento do código-fonte e versionamento colaborativo  | [GitHub](https://github.com)                |
+| Organização de tarefas   | Scrum (via organização semanal)  | Planejamento e execução por meio de sprints                 | Via planilhas e grupo WhatsApp              |
+
 
 ## Controle de versão
 
@@ -44,48 +58,72 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 > ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
-> A equipe utiliza o Scrum como base para definição do processo de desenvolvimento. [Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
+- Scrum Master: Saymon Augusto
+- Product Owner: Samuel Elias
+- Equipe de Desenvolvimento: Saymon Augusto, Samuel Elias, Gabriel Elias, Guilherme Emanoel
+- Equipe de Design: Saymon Augusto
 
-- Scrum Master: nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: nome de um membro da equipe, representante dos interesses de todos os envolvidos (stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: nomes de todos os membros da equipe, pois todos os membros deverão implementar no mínimo duas telas/funcionalidades.
-- Equipe de Design: nomes dos membros da equipe que trabalharão com design.
 
-> **Links úteis**:
-> - [11 passos essenciais para implantar Scrum no seu projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
 
 ### Processo
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+Claro, Guilherme! Aqui está um texto objetivo e pronto para ser incluído na documentação ou no `README.md` do projeto, com todos os elementos solicitados:
 
-Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, o GitHub Projects, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. 
+---
 
-Coloque uma imagem da estrutura da ferramenta de controle de tarefas (Kanban) e o link do GitHub Projects.
- 
-> **Links úteis**:
-> - [GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-> - [Planejamento e gestão ágil de projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Como criar backlogs no GitHub](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial slack](https://slack.com/intl/en-br/)
+## Metodologia de Trabalho
+
+A equipe está utilizando duas abordagens principais para guiar o desenvolvimento do projeto: **Design Thinking** e **Scrum**, integradas ao ambiente do **GitHub Projects** para o controle de tarefas.
+
+### Design Thinking
+
+A fase de descoberta e concepção do projeto foi baseada na metodologia Design Thinking, seguindo as seguintes etapas:
+
+1. **Imersão (Descoberta)** – Identificação do problema e entendimento do público-alvo.
+2. **Análise e Síntese** – Construção da **Persona** e **Mapa da Proposta de Valor**.
+3. **Ideação** – Geração de ideias e definição da solução a ser desenvolvida.
+4. **Prototipagem e Validação** – Desenvolvimento de artefatos iniciais e validação das propostas com potenciais usuários.
+
+### Framework Scrum
+
+A fase de desenvolvimento está sendo organizada por meio do **Scrum**, seguindo os elementos básicos do framework:
+
+- **Sprints Semanais**: ciclos curtos de trabalho com entregas incrementais.
+- **Daily Meetings**: acompanhamentos realizados no grupo do WhatsApp.
+- **Backlog do Produto**: lista de funcionalidades desejadas, mantida e priorizada pela equipe.
+- **Sprint Backlog**: tarefas selecionadas para desenvolvimento durante cada sprint.
+
+### Gerenciamento no GitHub Projects
+
+Para o acompanhamento do projeto, está sendo utilizado o **GitHub Projects**, com uma estrutura de quadro **Kanban**, que permite a visualização do status de cada tarefa nas colunas:
+
+- **To Do (A Fazer)**
+- **In Progress (Em Andamento)**
+- **Done (Concluído)**
+
+#### Link para o GitHub Projects:
+📁 
+
+#### Exemplo de Estrutura Kanban:
+![image](https://github.com/user-attachments/assets/58caf683-a885-4091-9ae5-d7bcde1995b3)
+
 
 ### Ferramentas
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+##  Ferramentas Utilizadas no Projeto
 
-Liste todas as ferramentas que foram empregadas no projeto, justificando a escolha delas, sempre que possível. Inclua itens como: (1) editor de código, (2) ferramentas de comunicação, (3) ferramentas de diagramação, (4) plataformas de hospedagem, entre outras.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seus respectivos propósitos é apresentada na tabela que se segue:
 
-⚠️ EXEMPLO ⚠️ os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+| Ambiente                            | Plataforma                         | Link de acesso                                                     |
+|-------------------------------------|------------------------------------|----------------------------------------------------------------------|
+| Processo de Design Thinking         | Miro                               | [Acessar Miro](https://miro.com/app/board/EXEMPLO)                  |
+| Repositório de código-fonte         | GitHub                             | [Repositório GitHub](https://github.com/seu-usuario/doce-mousse)   |
+| Documentos do projeto               | GitHub / Google Docs               | [Documentação](https://github.com/seu-usuario/doce-mousse/tree/main/docs) |
+| Gerenciamento do projeto (Kanban)   | GitHub Projects                    | [Kanban GitHub Projects](https://github.com/seu-usuario/doce-mousse/projects/1) |
+| Projeto de interface                | Figma                              | [Protótipo Figma](https://www.figma.com/file/EXEMPLO)               |
+| Editor de código                    | Visual Studio Code (VS Code)       | [VS Code](https://code.visualstudio.com/)                           |
+| Hospedagem do site                  | Vercel / GitHub Pages              | [Site hospedado](https://doce-mousse.vercel.app)                    |
+| Comunicação da equipe               | WhatsApp                           | Grupo interno                                                       |
+| Reuniões e alinhamentos             | Google Meet                        | [Google Meet](https://meet.google.com/EXEMPLO)                      |
+| Diagramas e mapas de valor          | Canva / Miro                       | [Canva](https://canva.com/EXEMPLO)                                  |
 
-| Ambiente                            | Plataforma                         | Link de acesso                       |
-|-------------------------------------|------------------------------------|--------------------------------------|
-| Processo de Design Thinking         | Miro                               | https://....   ⚠️ EXEMPLO ⚠️        |
-| Repositório de código fonte         | GitHub                             | https://....   ⚠️ EXEMPLO ⚠️        |
-| Documentos do projeto               | GitHub                             | http://....    ⚠️ EXEMPLO ⚠️        |
-| Gerenciamento do projeto            | GitHub Projects                    | http://....    ⚠️ EXEMPLO ⚠️        |
-| Projeto de interface                | Figma                              | http://....    ⚠️ EXEMPLO ⚠️        |
-| Hospedagem                          | Vercel                             | http://....    ⚠️ EXEMPLO ⚠️        |
- 
