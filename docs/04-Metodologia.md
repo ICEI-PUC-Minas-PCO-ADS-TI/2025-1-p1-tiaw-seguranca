@@ -67,10 +67,6 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Processo
 
-Claro, Guilherme! Aqui está um texto objetivo e pronto para ser incluído na documentação ou no `README.md` do projeto, com todos os elementos solicitados:
-
----
-
 ## Metodologia de Trabalho
 
 A equipe está utilizando duas abordagens principais para guiar o desenvolvimento do projeto: **Design Thinking** e **Scrum**, integradas ao ambiente do **GitHub Projects** para o controle de tarefas.
