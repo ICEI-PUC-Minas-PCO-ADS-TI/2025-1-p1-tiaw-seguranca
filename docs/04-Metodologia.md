@@ -56,8 +56,6 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ###  Divisão de papéis
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
-
 - Scrum Master: Saymon Augusto
 - Product Owner: Samuel Elias
 - Equipe de Desenvolvimento: Saymon Augusto, Samuel Elias, Gabriel Elias, Guilherme Emanoel
@@ -106,20 +104,16 @@ Para o acompanhamento do projeto, está sendo utilizado o **GitHub Projects**, c
 
 ### Ferramentas
 
-##  Ferramentas Utilizadas no Projeto
-
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seus respectivos propósitos é apresentada na tabela que se segue:
 
-| Ambiente                            | Plataforma                         | Link de acesso                                                     |
-|-------------------------------------|------------------------------------|----------------------------------------------------------------------|
-| Processo de Design Thinking         | Miro                               | [Acessar Miro](https://miro.com/app/board/EXEMPLO)                  |
-| Repositório de código-fonte         | GitHub                             | [Repositório GitHub](https://github.com/seu-usuario/doce-mousse)   |
-| Documentos do projeto               | GitHub / Google Docs               | [Documentação](https://github.com/seu-usuario/doce-mousse/tree/main/docs) |
-| Gerenciamento do projeto (Kanban)   | GitHub Projects                    | [Kanban GitHub Projects](https://github.com/seu-usuario/doce-mousse/projects/1) |
-| Projeto de interface                | Figma                              | [Protótipo Figma](https://www.figma.com/file/EXEMPLO)               |
-| Editor de código                    | Visual Studio Code (VS Code)       | [VS Code](https://code.visualstudio.com/)                           |
-| Hospedagem do site                  | Vercel / GitHub Pages              | [Site hospedado](https://doce-mousse.vercel.app)                    |
-| Comunicação da equipe               | WhatsApp                           | Grupo interno                                                       |
-| Reuniões e alinhamentos             | Google Meet                        | [Google Meet](https://meet.google.com/EXEMPLO)                      |
-| Diagramas e mapas de valor          | Canva / Miro                       | [Canva](https://canva.com/EXEMPLO)                                  |
+| Ambiente                            | Plataforma                         | Link de acesso                                                                                   |
+|-------------------------------------|------------------------------------|--------------------------------------------------------------------------------------------------|
+| Processo de Design Thinking         | Miro                               | [Acessar Miro](https://miro.com/app/board/uXjVIMPGFSQ=/)                                        |
+| Repositório de código-fonte         | GitHub                             | [Repositório GitHub](https://github.com/ICEI-PUC-Minas-PCO-ADS-TI/2025-1-p1-tiaw-seguranca)     |
+| Documentos do projeto               | WhatsApp                           | Grupo interno                                                                                    |
+| Gerenciamento do projeto (Kanban)   | GitHub Projects                    | [Kanban GitHub Projects](https://github.com/seu-usuario/doce-mousse/projects/1)                 |
+| Projeto de interface                | Figma                              | [Protótipo Figma](https://www.figma.com/file/EXEMPLO)                                           |
+
+
+
 
