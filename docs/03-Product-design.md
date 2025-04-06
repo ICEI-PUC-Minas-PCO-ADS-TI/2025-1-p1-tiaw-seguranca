@@ -15,11 +15,11 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Ronald, dono de um escritório de contabilidade  | ter uma ferramenta que integre conformidade fiscal e segurança de dados de forma automatizada         | garantir que minha empresa esteja sempre em conformidade com as exigências legais e reduzir os riscos de erros ou falhas de segurança que possam prejudicar a reputação do meu negócio.               |
-|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas  ⚠️ EXEMPLO ⚠️         | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas  ⚠️ EXEMPLO ⚠️         | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
+|Ronald, dono de um escritório de contabilidade     | uma ferramenta que me ajude a monitorar em tempo real o status de conformidade fiscal e contábil da minha empresa         | poder tomar decisões rápidas e informadas, reduzindo o risco de multas ou penalidades e garantindo que minha empresa esteja sempre em dia com as obrigações legais. |
+|Laura, estagiária no TJMG  | ter acesso a informações claras e aplicáveis sobre direito digital e segurança         | poder aplicar esse conhecimento de forma prática e ética na minha futura carreira jurídica, especialmente em questões de ética digital e segurança               |
+|Laura, estagiária no TJMG       | Modelos de documentos prontos (ex.: pareceres sobre conformidade com a LGPD).         | Reduzir o tempo de pesquisa em fontes dispersas. |
+|Gustavo, funcionário de um escritório de contabilidade  | uma plataforma que me permita acessar e aplicar as normas contábeis de forma prática e intuitiva         | evitar erros no meu trabalho diário e ganhar mais confiança na execução das minhas tarefas, contribuindo para o crescimento da empresa e da minha carreira.               |
+|Gustavo, funcionário de um escritório de contabilidade       | receber treinamentos claros e práticos sobre normas contábeis e de segurança         | aplicar essas normas no meu dia a dia de trabalho sem complicações e me sentir mais seguro e confiante em minhas habilidades. |
 
 > ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 
