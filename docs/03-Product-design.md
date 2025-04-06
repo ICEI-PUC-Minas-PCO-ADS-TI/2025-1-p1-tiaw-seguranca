@@ -14,6 +14,10 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
+|Ronald, dono de um escritório de contabilidade  | ter uma ferramenta que integre conformidade fiscal e segurança de dados de forma automatizada         | garantir que minha empresa esteja sempre em conformidade com as exigências legais e reduzir os riscos de erros ou falhas de segurança que possam prejudicar a reputação do meu negócio.               |
+|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
+|Usuário do sistema  | Registrar minhas tarefas  ⚠️ EXEMPLO ⚠️         | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
 |Usuário do sistema  | Registrar minhas tarefas  ⚠️ EXEMPLO ⚠️         | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões        ⚠️ EXEMPLO ⚠️         | Permitir que possam administrar contas |
 
@@ -33,9 +37,9 @@ Apresente aqui as histórias de usuários que são relevantes para o projeto da 
 
 **✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
 
-##### Proposta para a persona XPTO ⚠️ EXEMPLO ⚠️
-
-![Exemplo de proposta de valor](images/exemplo-proposta-valor.png)
+![Persona Ronald](images/Persona-Ronald.png)
+![Persona Laura](images/Persona-Laura.png)
+![Persona Gustavo](images/Persona-Gustavo.png)
 
 > ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
