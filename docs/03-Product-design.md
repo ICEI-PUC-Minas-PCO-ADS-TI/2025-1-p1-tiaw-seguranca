@@ -42,9 +42,9 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
 | ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | Orçamento limitado: O desenvolvimento deve considerar os recursos financeiros disponíveis, limitando algumas funcionalidades avançadas. | MÉDIA     |
-| RNF-002 | Conformidade com normas: O sistema deve seguir rigorosamente a LGPD e o GDPR, exigindo atualizações constantes.          | ALTA      |
-| RNF-003 | Infraestrutura tecnológica dos clientes: A solução precisa se adaptar à infraestrutura existente nas empresas contratantes, o que limita a escolha de algumas tecnologias.          | ALTA      |
+| RNF-001 | O sistema deve ser responsivo e acessível via navegadores em dispositivos móveis e desktops. | ALTA     |
+| RNF-002 | O sistema deve cumprir normas de segurança de dados como a LGPD e o GDPR.          | ALTA      |
+| RNF-003 | O sistema deve apresentar alta disponibilidade para não interromper os serviços prestados.          | MÉDIA      |
 
 ## Restrições
 
