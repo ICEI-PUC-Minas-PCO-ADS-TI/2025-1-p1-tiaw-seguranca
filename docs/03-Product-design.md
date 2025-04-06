@@ -17,7 +17,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 ![Persona Ronald](images/Persona-Ronald.png)
 ![Persona Laura](images/Persona-Laura.png)
-![Persona Gustavo](images/Persona-Gustavo.png)
+![Persona Gustavo](images/Persona-Gustavo-1.png)
 
 ## Requisitos
 
