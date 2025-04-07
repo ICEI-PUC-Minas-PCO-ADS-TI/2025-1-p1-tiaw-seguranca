@@ -62,7 +62,80 @@ D - Dúvidas (O que não sabemos)
 4. Conformidade legal realmente protege contra processos ou investigações?
    Dúvida: Mesmo seguindo tudo, ainda é possível sofrer ações externas.
 
-> * **Mapa de stakeholders**: ferramenta que permite identificar e entender o grupo de pessoas e entidades que devem ser analisados e consultados para obter uma visão mais ampla do problema;
+===============================
+MAPA DE STAKEHOLDERS – COMPLIANCE
+===============================
+
+-------------------------------
+1. DIRETORIA EXECUTIVA
+-------------------------------
+🟢 Poder: Alto
+🟢 Interesse: Alto
+📌 Papel: Tomadores de decisão estratégica. Precisam garantir que a empresa siga leis e políticas de compliance.
+
+-------------------------------
+2. ÁREA JURÍDICA
+-------------------------------
+🟢 Poder: Alto
+🟢 Interesse: Alto
+📌 Papel: Responsável por interpretar a legislação (como LGPD), orientar ações e reduzir riscos legais.
+
+-------------------------------
+3. EQUIPE DE TI
+-------------------------------
+🟡 Poder: Médio
+🟢 Interesse: Alto
+📌 Papel: Implementa medidas técnicas de segurança (como controle de acesso e monitoramento).
+
+-------------------------------
+4. FUNCIONÁRIOS EM GERAL
+-------------------------------
+🔴 Poder: Baixo
+🟡 Interesse: Médio
+📌 Papel: Precisam seguir as regras internas e contribuir para uma cultura de conformidade.
+
+-------------------------------
+5. CLIENTES
+-------------------------------
+🟡 Poder: Médio
+🟢 Interesse: Alto
+📌 Papel: Esperam que seus dados sejam protegidos e que a empresa aja de forma ética.
+
+-------------------------------
+6. FORNECEDORES E PARCEIROS
+-------------------------------
+🟡 Poder: Médio
+🟡 Interesse: Médio
+📌 Papel: Precisam estar alinhados às políticas da empresa para evitar riscos externos.
+
+-------------------------------
+7. ÓRGÃOS REGULADORES (ex: ANPD)
+-------------------------------
+🟢 Poder: Alto
+🟢 Interesse: Alto
+📌 Papel: Fiscalizam, aplicam penalidades e garantem que as leis sejam cumpridas.
+
+-------------------------------
+8. INVESTIDORES
+-------------------------------
+🟡 Poder: Médio
+🟡 Interesse: Médio
+📌 Papel: Interessados na reputação e estabilidade legal da empresa.
+
+-------------------------------
+9. CONSUMIDORES FINAIS (SOCIEDADE)
+-------------------------------
+🔴 Poder: Baixo
+🟡 Interesse: Médio
+📌 Papel: Exigem transparência e ética, influenciam a imagem da empresa.
+
+-------------------------------
+10. AUDITORES INTERNOS / EXTERNOS
+-------------------------------
+🟡 Poder: Médio
+🟡 Interesse: Médio
+📌 Papel: Avaliam e garantem que as práticas estão sendo seguidas corretamente.
+ser analisados e consultados para obter uma visão mais ampla do problema;
 > * **Entrevistas qualitativas**: uma série de entrevistas qualitativas a fim de validar suposições e esclarecer dúvidas junto aos principais envolvidos;
 > * **Highlights de pesquisa**: um compilado das informações levantadas durante as entrevistas realizadas.
 
