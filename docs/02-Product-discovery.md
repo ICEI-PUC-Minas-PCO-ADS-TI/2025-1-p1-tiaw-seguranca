@@ -7,8 +7,7 @@
 ## Etapa de entendimento
 
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
-
-> * **Matriz CSD**:  ===============================
+ ===============================
 MATRIZ CSD – COMPLIANCE
 ===============================
 
