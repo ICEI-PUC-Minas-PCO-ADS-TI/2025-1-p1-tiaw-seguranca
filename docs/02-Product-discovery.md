@@ -8,11 +8,61 @@
 
 **✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESTA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Nesta etapa, é necessário aplicar a metodologia de Design Thinking para compreender de forma mais profunda o problema a ser abordado. Durante esse processo, devem ser elaborados os seguintes elementos:
->
-> * **Matriz CSD**:  também conhecida como Matriz de Alinhamento, trata-se de uma ferramenta utilizada no Design Thinking para organizar informações, facilitando a tomada de decisões e a solução de problemas;
+> * **Matriz CSD**:  ===============================
+MATRIZ CSD – COMPLIANCE
+===============================
+
+-------------------------------
+C - Certezas (O que já sabemos)
+-------------------------------
+
+1. Ameaça Interna
+   Definição: Profissionais com altos privilégios têm mais poder de causar danos, 
+   mas até quem tem pouco acesso pode representar risco por erro.
+   Certeza: Aplicar o princípio do privilégio mínimo, monitorar acessos e analisar 
+   o comportamento reduz riscos.
+
+2. Conformidade Legal
+   Definição: Leis como a LGPD exigem o uso correto dos dados, com regras claras 
+   e responsabilidade.
+   Certeza: É necessário ter políticas claras, auditorias e tratamento adequado dos dados.
+
+3. Segurança de Software
+   Definição: Softwares desatualizados são alvos fáceis de ataque.
+   Certeza: É essencial manter atualizações, realizar testes de segurança e auditorias técnicas.
+
+----------------------------------------------
+S - Suposições (O que achamos, mas não sabemos)
+----------------------------------------------
+
+1. Funcionários com privilégios elevados são sempre a maior ameaça
+   Suposição: Quem tem mais acesso pode causar mais dano, mas não temos certeza de que são os únicos riscos.
+
+2. Estar em conformidade evita automaticamente problemas legais
+   Suposição: Supomos que só o cumprimento da lei protege, mas ainda podem existir brechas ou falhas.
+
+3. A versão mais recente do software é sempre a mais segura
+   Suposição: Pensamos que atualizar resolve tudo, mas versões novas também podem trazer falhas.
+
+4. Softwares sem histórico de falhas dificilmente terão vulnerabilidades
+   Suposição: Acreditamos que se nunca teve erro, está seguro — mas isso não é garantido.
+
+------------------------------
+D - Dúvidas (O que não sabemos)
+------------------------------
+
+1. Como implementar compliance sem afetar a cultura da empresa?
+   Dúvida: Mudar processos pode impactar o jeito de trabalhar das pessoas.
+
+2. Como identificar ameaças internas sem causar desconforto?
+   Dúvida: Monitorar funcionários pode ser visto como falta de confiança.
+
+3. Como avaliar o nível de vulnerabilidade dos sistemas com precisão?
+   Dúvida: Pode ser difícil identificar falhas sem testes contínuos.
+
+4. Conformidade legal realmente protege contra processos ou investigações?
+   Dúvida: Mesmo seguindo tudo, ainda é possível sofrer ações externas.
+
 > * **Mapa de stakeholders**: ferramenta que permite identificar e entender o grupo de pessoas e entidades que devem ser analisados e consultados para obter uma visão mais ampla do problema;
 > * **Entrevistas qualitativas**: uma série de entrevistas qualitativas a fim de validar suposições e esclarecer dúvidas junto aos principais envolvidos;
 > * **Highlights de pesquisa**: um compilado das informações levantadas durante as entrevistas realizadas.
