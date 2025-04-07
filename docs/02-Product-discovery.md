@@ -136,7 +136,46 @@ MAPA DE STAKEHOLDERS – COMPLIANCE
 🟡 Interesse: Médio
 📌 Papel: Avaliam e garantem que as práticas estão sendo seguidas corretamente.
 ser analisados e consultados para obter uma visão mais ampla do problema;
-> * **Entrevistas qualitativas**: uma série de entrevistas qualitativas a fim de validar suposições e esclarecer dúvidas junto aos principais envolvidos;
+
+==============================
+ENTREVISTAS QUALITATIVAS - COMPLIANCE
+==============================
+
+>> PERGUNTA 1:
+"Quais os maiores desafios na implementação de políticas em uma empresa?"
+
+RESPOSTA:
+Ronald: O maior desafio é a resistência interna. As pessoas veem políticas de conformidade como burocracia. Explicar que elas existem para proteger a empresa e os funcionários é essencial, mas nem sempre é fácil mudar essa mentalidade.
+
+RELACIONAMENTO COM O PROJETO:
+- Conecta com a Dúvida da Matriz CSD: "Como implementar compliance sem afetar a cultura da empresa?"
+- Alinha com o papel dos Stakeholders Internos (Diretoria, Funcionários) no Mapa de Stakeholders.
+
+------------------------------
+
+>> PERGUNTA 2:
+"Quais métodos você considera mais eficazes para identificar vulnerabilidades em sistemas e por quê?"
+
+RESPOSTAS:
+Ronald: Treinar as pessoas que usam o sistema diariamente.
+Gustavo: Testes automatizados podem evitar problemas antes mesmo que o sistema aponte.
+Laura: Ferramenta de varredura, antivírus.
+Deniel: Talvez o ideal é combinar métodos.
+
+RELACIONAMENTO COM O PROJETO:
+- Relaciona-se com a Certeza da Matriz CSD sobre Segurança de Software.
+- Confirma a importância de múltiplas abordagens citadas na Suposição: "Softwares sem histórico de falhas dificilmente terão vulnerabilidades".
+- Fortalece a atuação da Equipe de TI no Mapa de Stakeholders.
+
+------------------------------
+
+>> PERGUNTA 3:
+"Na sua opinião, funcionários com privilégios elevados representam sempre o maior risco interno em relação ao acesso não controlado?"
+
+RESPOSTAS:
+Ronald: O maior perigo não está apenas nos privilégios, mas na falta de uma política clara de controle de acessos.
+Laura: O problema não é apenas o
+dúvidas junto aos principais envolvidos;
 > * **Highlights de pesquisa**: um compilado das informações levantadas durante as entrevistas realizadas.
 
 > **Links úteis**:
