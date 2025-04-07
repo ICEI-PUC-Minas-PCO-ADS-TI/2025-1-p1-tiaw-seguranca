@@ -4,9 +4,6 @@
 
 ✅ [Documentação de Design Thinking (MIRO)](files/processo-dt.pdf)
 
-## Etapa de entendimento
-
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
  ===============================
 MATRIZ CSD – COMPLIANCE
 ===============================
@@ -176,10 +173,50 @@ RESPOSTAS:
 Ronald: O maior perigo não está apenas nos privilégios, mas na falta de uma política clara de controle de acessos.
 Laura: O problema não é apenas o
 dúvidas junto aos principais envolvidos;
-> * **Highlights de pesquisa**: um compilado das informações levantadas durante as entrevistas realizadas.
+> * **Highlights de pesquisa**:==============================
+HIGHLIGHTS DA PESQUISA QUALITATIVA
+==============================
 
-> **Links úteis**:
-> - [Mapa de stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
+>> SURPRESAS (INSIGHTS INESPERADOS DOS PARTICIPANTES):
+
+- Ronald: Chamou atenção ao destacar a resistência interna como um obstáculo cultural. A mudança de mentalidade dos funcionários é mais difícil do que a implementação das políticas em si.
+
+- Gustavo: Mostrou clareza ao apontar que atualizações de software resolvem falhas conhecidas, mas não cobrem falhas futuras ou desconhecidas.
+
+- Laura: Surpreendeu ao apontar que a falta de controle de acessos pode fazer com que qualquer pessoa acesse informações que não deveria, independente de privilégios.
+
+- Daniel: Teve uma visão abrangente ao sugerir que a combinação de métodos (tecnológicos e humanos) pode ser mais eficaz para identificar vulnerabilidades.
+
+------------------------------
+
+>> PRINCIPAIS TEMAS E APRENDIZADOS:
+
+- A ameaça interna não depende apenas de altos privilégios — qualquer acesso não controlado pode representar um risco.
+- A importância de monitoramento constante de acessos.
+- Conscientização e treinamento são pilares fundamentais do compliance.
+- Limitação de acessos conforme o cargo e a função é essencial para a segurança.
+
+------------------------------
+
+>> ASPECTOS MAIS IMPORTANTES PARA OS PARTICIPANTES:
+
+- Gustavo: Apontou que a linguagem excessivamente técnica nas políticas dificulta o entendimento e pode levar a erros.
+- Laura: Criticou políticas genéricas ou copiadas de outras empresas, que ignoram a cultura organizacional.
+- Ronald: Reforçou que a resistência interna é um dos maiores entraves para a adesão às normas de compliance.
+- Laura e Daniel: Concordaram que a ausência de monitoramento compromete qualquer esforço de controle.
+
+------------------------------
+
+>> QUESTÕES E TÓPICOS A EXPLORAR NO FUTURO:
+
+- Como desenvolver estratégias de conscientização eficazes para diferentes perfis de colaboradores?
+- Quais ferramentas e práticas melhoram o controle e monitoramento de acessos?
+- Como adaptar políticas de compliance à cultura de cada empresa?
+- Como simplificar a linguagem usada nas normas sem perder a precisão técnica?
+
+==============================
+FIM DO ARQUIVO
+==============================
 
 ## Etapa de definição
 
@@ -193,11 +230,3 @@ dúvidas junto aos principais envolvidos;
 
 
 ![Exemplo de persona](images/exemplo-persona.png)
-
-
-> **Links úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
