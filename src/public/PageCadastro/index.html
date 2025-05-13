@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CadastroSafe</title>
+    <link rel="stylesheet" href="/Cadastro-Safe/style.css">
+</head>
+<body>
+
+    <!--Cebeçaçho-->
+    <header>
+        <a>Página Inicial</a>
+        <nav class="caixa-menuprincipal">
+            <ul class="menu">
+                <li></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Sobre Nós</a></li>
+                <li><a href="#">Contato</a></li>
+                <li><a href="#">Image</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="form-container">
+        <h1>Crie sua conta</h1>
+        <form action="/cadastro" method="POST">
+            <div class="form-group">
+                <label for="username">Nome de usuário</label>
+                <input type="text" id="username" name="username">
+            </div>
+            <div class="form-group">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email">
+            </div>
+            <div class="form-group">
+                <label for="password">Senha</label>
+                <input type="password" id="password" name="password">
+            </div>
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+
+      <footer>
+        <p>&copy; 2025 Meu Site. Todos os direitos reservados.</p>
+      </footer>
+
+
+      <script src="/Cadastro-Safe/index.js"></script>
+
+
+    
+</body>
+</html>
